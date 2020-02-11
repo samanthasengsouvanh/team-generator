@@ -1,0 +1,23 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --config="
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanthasengsouvanh/team-generator.git"
+  },
+  "author": "samantha sengsouvanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samanthasengsouvanh/team-generator/issues"
+  },
+  "homepage": "https://github.com/samanthasengsouvanh/team-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^25.1.0"
+  }
+}

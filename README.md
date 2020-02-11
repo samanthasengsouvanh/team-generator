@@ -15,6 +15,8 @@ so that I have quick access to emails and GitHub profiles
 
 ![UI DEMO](./assets/team-generator-demo.gif)
 
+![TEST DEMO](./assets/test.gif)
+
 # Author
 
 Samantha Sengsouvanh
